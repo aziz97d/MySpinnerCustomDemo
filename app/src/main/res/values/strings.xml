@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Spinner</string>
+    <string-array name="country_names">
+        <item>Algeria</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Bolivia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Egypt</item>
+        <item>England</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Italy</item>
+    </string-array>
+    <string-array name="population">
+        <item>10Milion</item>
+        <item>30Milion</item>
+        <item>100Milion</item>
+        <item>90Milion</item>
+        <item>80Milion</item>
+        <item>70Milion</item>
+        <item>48Milion</item>
+        <item>120Milion</item>
+        <item>45Milion</item>
+        <item>56Milion</item>
+        <item>50Milion</item>
+        <item>15Milion</item>
+        <item>150Milion</item>
+        <item>100Milion</item>
+    </string-array>
+</resources>
